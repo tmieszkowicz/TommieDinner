@@ -1,0 +1,15 @@
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\bin\Debug\net9.0\TommieDinner.Application.deps.json
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\bin\Debug\net9.0\TommieDinner.Application.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\bin\Debug\net9.0\TommieDinner.Application.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.AssemblyInfoInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.AssemblyInfo.cs
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\refint\TommieDinner.Application.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\ref\TommieDinner.Application.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\bin\Debug\net9.0\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\bin\Debug\net9.0\TommieDinner.Domain.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDinner.Application.csproj.AssemblyReference.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Application\obj\Debug\net9.0\TommieDi.06150477.Up2Date

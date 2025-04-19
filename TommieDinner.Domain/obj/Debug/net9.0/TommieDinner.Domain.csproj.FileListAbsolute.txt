@@ -1,0 +1,12 @@
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\bin\Debug\net9.0\TommieDinner.Domain.deps.json
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\bin\Debug\net9.0\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\bin\Debug\net9.0\TommieDinner.Domain.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.AssemblyInfo.cs
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\refint\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\ref\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Domain\obj\Debug\net9.0\TommieDinner.Domain.csproj.AssemblyReference.cache

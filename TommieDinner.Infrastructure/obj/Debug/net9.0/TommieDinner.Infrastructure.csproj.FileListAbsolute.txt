@@ -1,0 +1,17 @@
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Infrastructure.deps.json
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Infrastructure.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Infrastructure.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.AssemblyInfo.cs
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\refint\TommieDinner.Infrastructure.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\ref\TommieDinner.Infrastructure.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Application.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Domain.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Application.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\bin\Debug\net9.0\TommieDinner.Domain.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Infrastructure\obj\Debug\net9.0\TommieDi.2357F2E1.Up2Date

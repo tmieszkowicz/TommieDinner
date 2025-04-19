@@ -1,0 +1,24 @@
+@host=http://localhost:5197
+@hostId=test
+@token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJUb21taWVEaW5uZXIuRG9tYWluLlVzZXJBZ2dyZWdhdGUuVmFsdWVPYmplY3RzLlVzZXJJZCIsImdpdmVuX25hbWUiOiJUb21hc3oiLCJmYW1pbHlfbmFtZSI6Ik1pZXN6a293aWN6IiwianRpIjoiZTJmZTZmNDgtMGYwNC00NjA0LWIyOGItNGFiNDllNTlkOTg1IiwiZXhwIjoxNzQzNzY3OTM1LCJpc3MiOiJUb21taWVEaW5uZXIiLCJhdWQiOiJUb21taWVEaW5uZXIifQ.LY61HPEk-H_M62LhgwsN2o-Uyb-41YB8jY-fKvhyIRw
+
+POST {{host}}/hosts/{{hostId}}/menus
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "name": "Italian Menu",
+    "description": "Delicious Italian dishes",
+    "sections": [
+        {
+            "name": "Appetizers",
+            "description": "Start your meal right",
+            "items": [
+                {
+                    "name": "Bruschetta",
+                    "description": "Grilled bread with tomatoes"
+                }
+            ]
+        }
+    ]
+}

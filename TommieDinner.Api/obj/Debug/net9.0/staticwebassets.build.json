@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RpH0fJv6h9PH7ru0v2JHkMw5GHwjH/VVJ0r/pkW8KgQ=",
+  "Source": "TommieDinner.Api",
+  "BasePath": "_content/TommieDinner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

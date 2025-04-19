@@ -1,0 +1,11 @@
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\bin\Debug\net9.0\TommieDinner.Contracts.deps.json
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\bin\Debug\net9.0\TommieDinner.Contracts.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\bin\Debug\net9.0\TommieDinner.Contracts.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.AssemblyInfo.cs
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\refint\TommieDinner.Contracts.dll
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\TommieDinner.Contracts.pdb
+C:\Users\tommi\source\repos\TommieDinner\TommieDinner.Contracts\obj\Debug\net9.0\ref\TommieDinner.Contracts.dll
